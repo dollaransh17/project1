@@ -1,0 +1,48 @@
+#violet{
+    background-color: violet;
+    color: white;
+}
+#indigo{
+    background-color: indigo;
+    color: white;
+}
+#blue{
+    background-color: blue;
+    color:white
+}
+#green{
+    background-color: green;
+    color: white;
+}
+#yellow{
+    background-color: yellow;
+    color: white;
+}
+#orange{
+    background-color: orange;
+    color: white;
+}
+#red{
+    background-color: red;
+    color: white;
+}
+#container{
+    height : 300px;
+    width: 80%;
+    background-color: aliceblue;
+    margin: 10px auto;
+    border: 2px solid black;
+    display:flex;
+    flex-direction: row;
+    justify-content:flex-start ;
+    flex-wrap: nowrap;
+}
+
+    
+h2{
+    text-align: center;
+}
+.color{
+    height: 100px;
+    width: 50px;
+}
